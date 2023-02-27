@@ -1,0 +1,405 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+
+.body{
+    background: #F5F5F5;
+}
+
+.body img{
+    position: absolute;
+    width: 115.16px;
+    height: 126.56px;
+    left: 437.42px;
+    top: 22.85px;
+
+}
+
+
+
+.lush img{
+    
+width: 100%;
+height: 340px;
+margin-top: 164px;
+object-fit: contain;
+background-position:cover; 
+
+}
+
+.menu-box{
+    box-sizing: border-box;
+    width: 100px;
+    height: 100px;
+    background: #F5F5F5;
+    padding-left: 979px;
+    padding-bottom: 1069px;
+
+}
+
+.menu-box-row{  
+    display: flex;
+    justify-content: space-around;
+    position: absolute;
+    width: 170px;
+    height: 175px;
+    left: 12px;
+    top: 563px;
+    background: #D00326;
+    border-radius: 5px;
+}
+
+.menu-box-row2{
+    width: 170px;
+    height: 175px;
+    background: #D00326;
+    position: absolute;
+    border-radius: 5px;
+    justify-content: space-around;
+    display: flex;
+    position: absolute;
+    top: 563px;
+    left: 390px;
+
+}
+
+.menu-box-row3{
+    width: 170px;
+    height: 175px;
+    background: #D00326;
+    position: absolute;
+    border-radius: 5px;
+    justify-content: space-around;
+    display: flex;
+    position: absolute;
+    top: 563px;
+    left: 747px;
+}
+
+.menu-box-column{
+    width: 100px;
+    height: 100px;
+    position: relative;
+}
+
+.column-img {
+    width: 260px;
+    height: 240px;
+    position: absolute;
+    top: -75px;
+    left: -24px;
+}
+
+.column-img1{
+    left: -44px;
+    width: 278px;
+    height: -320px;
+    top: -132px;
+    position: absolute;
+}
+
+.column-img2{
+    position: absolute;
+    width: 261px;
+    height: 309px;
+    left: -47px;
+    top: -94px;
+}
+
+.menu-box-column h1{
+    position: absolute;
+    top: 180px;
+    left: -5px;
+    font: 'roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 66px;
+    text-align: center;
+    color: black;
+}
+
+.menu-box-column2 h1{
+    position: absolute;
+    left: 32px;
+    top: 180px;
+    font: 'roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 66px;
+    text-align: center;
+    color: black;
+
+}
+
+.menu-box-column3 h1{
+    position:absolute;
+    top: 190px;
+    left: 5px;
+    font: 'roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size:35px;
+    line-height: 66px;
+    text-align: center;
+    color: black;
+
+}
+
+.box{
+    box-sizing: border-box;
+    background: #F5F5F5;
+    padding-left: 979px;
+  
+}
+
+.box-row{  
+    display: flex;
+    justify-content: space-around;
+    position: absolute;
+    width: 170px;
+    height: 175px;
+    left: 12px;
+    top: 895px;
+    background: #D00326;
+    border-radius: 5px;
+}
+
+.menu-box-column{
+    width: 100px;
+    height: 100px;
+    position: relative;
+}
+
+.box-img{
+    width: 337px;
+    height: 275px;
+    position: absolute;
+    top: -84px;
+    left: -43px;
+    transform: rotate(342 deg);
+}
+
+.box-row2{
+    width: 170px;
+    height: 175px;
+    background: #D00326;
+    position: absolute;
+    border-radius: 5px;
+    justify-content: space-around;
+    display: flex;
+    position: absolute;
+    top: 895px;
+    left: 390px;
+
+}
+
+.box-img2{
+    width: 369px;
+    height: 308px;
+    position: absolute;
+    top: -96px;
+    left: -43px;
+    transform: rotate(357 deg);
+}
+
+.box-row3{
+    width: 170px;
+    height: 175px;
+    background: #D00326;
+    position: absolute;
+    border-radius: 5px;
+    justify-content: space-around;
+    display: flex;
+    position: absolute;
+    top: 895px;
+    left: 747px;
+}
+
+.box-img3{
+    position: absolute;
+    width: 252px;
+    height: 309px;
+    left: -47px;
+    top: -126px;
+}
+
+.box-column h1{
+    position: absolute;
+    top: 190px;
+    left: 2px;
+    font: 'roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 66px;
+    text-align: center;
+    color: black;
+}
+
+.box-column2 h1{
+    position: absolute;
+    top: 190px;
+    left: 38px;
+    font: 'roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 34px;
+    line-height: 66px;
+    text-align: center;
+    color: black;
+}
+
+.box-column3 h1{
+    position: absolute;
+    top: 190px;
+    left:18px;
+    font: 'roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 34px;
+    line-height: 66px;
+    text-align: center;
+    color: black;
+}
+
+
+.menu-row{  
+    display: flex;
+    justify-content: space-around;
+    position: absolute;
+    width: 170px;
+    height: 175px;
+    left: 12px;
+    top: 1269px;
+    background: #D00326;
+    border-radius: 5px;
+}
+
+
+.menu-img{
+    width: 337px;
+    height: 275px;
+    position: absolute;
+    top: -84px;
+    left: -43px;
+    transform: rotate(342 deg);
+}
+
+.menu-row2{
+    width: 170px;
+    height: 175px;
+    background: #D00326;
+    position: absolute;
+    border-radius: 5px;
+    justify-content: space-around;
+    display: flex;
+    position: absolute;
+    top: 1269px;
+    left: 390px;
+
+}
+
+.menu-img2{
+    width: 369px;
+    height: 308px;
+    position: absolute;
+    top: -96px;
+    left: -43px;
+    transform: rotate(357 deg);
+}
+
+.menu-row3{
+    width: 170px;
+    height: 175px;
+    background: #D00326;
+    position: absolute;
+    border-radius: 5px;
+    justify-content: space-around;
+    display: flex;
+    position: absolute;
+    top: 1269px;
+    left: 747px;
+}
+
+.menu-img3{
+    position: absolute;
+    width: 252px;
+    height: 309px;
+    left: -47px;
+    top: -126px;
+}
+
+.menu-column h1{
+    position: absolute;
+    top: 190px;
+    left: 2px;
+    font: 'roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 66px;
+    text-align: center;
+    color: black;
+}
+
+.menu-column2 h1{
+    position: absolute;
+    top: 190px;
+    left: 38px;
+    font: 'roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 34px;
+    line-height: 66px;
+    text-align: center;
+    color: black;
+}
+
+.menu-column3 h1{
+    position: absolute;
+    top: 190px;
+    left:18px;
+    font: 'roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 34px;
+    line-height: 66px;
+    text-align: center;
+    color: black;
+}
+
+.momo img{
+    
+    width: 80%;
+    height: 377px;
+    margin-top: 118px;
+    object-fit: contain;
+    background-position:cover;
+    position: absolute;
+    left: 93px; 
+    
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
